@@ -1,0 +1,251 @@
+﻿Head Writer,Director,Lead,Genre,Run Time (Minutes),Movie ID,Ranking,Movie Name,Release Year,Rating,Certificate,Tagline,Budget,Box Office Sales
+Stephen King,Frank Darabont,Tim Robbins,Drama,142,MOV_001,1,The Shawshank Redemption,1994,9.3,R,Fear can hold you prisoner. Hope can set you free.,25000000,28884504
+Mario Puzo,Francis Ford Coppola,Marlon Brando,Crime,175,MOV_002,2,The Godfather,1972,9.2,R,An offer you can't refuse.,6000000,250341816
+Jonathan Nolan,Christopher Nolan,Christian Bale,Action,152,MOV_003,3,The Dark Knight,2008,9,PG-13,Why So Serious?,185000000,1006234167
+Francis Ford Coppola,Francis Ford Coppola,Al Pacino,Crime,202,MOV_004,4,The Godfather Part II,1974,9,R,All the power on earth can't change destiny.,13000000,47961919
+Reginald Rose,Sidney Lumet,Henry Fonda,Crime,96,MOV_005,5,12 Angry Men,1957,9,Approved,Life Is In Their Hands -- Death Is On Their Minds!,350000,955
+Thomas Keneally,Steven Spielberg,Liam Neeson,Biography,195,MOV_006,6,Schindler's List,1993,9,R,"Whoever saves one life, saves the world entire.",22000000,322161245
+J.R.R. Tolkien,Peter Jackson,Elijah Wood,Action,201,MOV_007,7,The Lord of the Rings: The Return of the King,2003,9,PG-13,The eye of the enemy is moving.,94000000,1146457748
+Quentin Tarantino,Quentin Tarantino,John Travolta,Crime,154,MOV_008,8,Pulp Fiction,1994,8.9,R,Girls like me don't make invitations like this to just anyone!,8000000,213928762
+J.R.R. Tolkien,Peter Jackson,Elijah Wood,Action,178,MOV_009,9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,PG-13,The Legend Comes to Life,93000000,898204420
+Luciano Vincenzoni,Sergio Leone,Clint Eastwood,Adventure,178,MOV_010,10,"The Good, the Bad and the Ugly",1966,8.8,Approved,They formed an alliance of hate to steal a fortune in dead man's gold,1200000,25253887
+Winston Groom,Robert Zemeckis,Tom Hanks,Drama,142,MOV_011,11,Forrest Gump,1994,8.8,PG-13,The story of a lifetime.,55000000,678226465
+Chuck Palahniuk,David Fincher,Brad Pitt,Drama,139,MOV_012,12,Fight Club,1999,8.8,R,How much can you know about yourself if you've never been in a fight?,63000000,101209702
+J.R.R. Tolkien,Peter Jackson,Elijah Wood,Action,179,MOV_013,13,The Lord of the Rings: The Two Towers,2002,8.8,PG-13,A New Power Is Rising.,94000000,947944270
+Christopher Nolan,Christopher Nolan,Leonardo DiCaprio,Action,148,MOV_014,14,Inception,2010,8.8,PG-13,Your mind is the scene of the crime,160000000,836848102
+Leigh Brackett,Irvin Kershner,Mark Hamill,Action,124,MOV_015,15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,PG,The Adventure Continues...,18000000,538375067
+Lilly Wachowski,Lana Wachowski,Keanu Reeves,Action,136,MOV_016,16,The Matrix,1999,8.7,R,Free your mind,63000000,467222728
+Nicholas Pileggi,Martin Scorsese,Robert De Niro,Biography,145,MOV_017,17,Goodfellas,1990,8.7,R,"""As far back as I can remember, I've always wanted to be a gangster."" -- Henry Hill, Brooklyn, N.Y. 1955.",25000000,47036784
+Lawrence Hauben,Milos Forman,Jack Nicholson,Drama,133,MOV_018,18,One Flew Over the Cuckoo's Nest,1975,8.7,18+,"If he's crazy, what does that make you?",3000000,109114817
+Andrew Kevin Walker,David Fincher,Morgan Freeman,Crime,127,MOV_019,19,Se7en,1995,8.6,R,"Long is the way, and hard, that out of hell leads up to light.",33000000,327333559
+Akira Kurosawa,Akira Kurosawa,Toshirô Mifune,Action,207,MOV_020,20,Seven Samurai,1954,8.6,Not Rated,Will Take Its Place With the Seven Greatest Films of All Time!,125000000,346258
+Frances Goodrich,Frank Capra,James Stewart,Drama,130,MOV_021,21,It's a Wonderful Life,1946,8.6,PG,"Frank Capra's...""It's a Wonderful Life"".",3180000,8574081
+Thomas Harris,Jonathan Demme,Jodie Foster,Crime,118,MOV_022,22,The Silence of the Lambs,1991,8.6,R,"Dr. Hannibal Lecter. Brilliant. Cunning. Psychotic. In his mind lies the clue to a ruthless killer. - Clarice Starling, FBI. Brilliant. Vulnerable. Alone. She must trust him to stop the killer.",19000000,272742922
+Paulo Lins,Fernando Meirelles,Alexandre Rodrigues,Crime,130,MOV_023,23,City of God,2002,8.6,R,"If you run, the beast will get you. If you stay, the beast will eat you",3300000,30680793
+Robert Rodat,Steven Spielberg,Tom Hanks,Drama,169,MOV_024,24,Saving Private Ryan,1998,8.6,R,"In the Last Great Invasion of the Last Great War, The Greatest Danger for Eight Men was Saving... One.",70000000,482349603
+Jonathan Nolan,Christopher Nolan,Matthew McConaughey,Adventure,169,MOV_025,25,Interstellar,2014,8.6,PG-13,Mankind was born on Earth. It was never meant to die here.,165000000,773867216
+Vincenzo Cerami,Roberto Benigni,Roberto Benigni,Comedy,116,MOV_026,26,Life Is Beautiful,1997,8.6,PG-13,"An unforgettable fable that proves love, family and imagination conquer all. (Canadian one sheet)",20000000,230098753
+Stephen King,Frank Darabont,Tom Hanks,Crime,189,MOV_027,27,The Green Mile,1999,8.6,R,Miracles do happen.,60000000,286801374
+George Lucas,George Lucas,Mark Hamill,Action,121,MOV_028,28,Star Wars: Episode IV - A New Hope,1977,8.6,PG,It's Back! The Force will be with you for three weeks only. (1979 Reissue Poster),11000000,775398007
+James Cameron,James Cameron,Arnold Schwarzenegger,Action,137,MOV_029,29,Terminator 2: Judgment Day,1991,8.6,R,It's nothing personal.,102000000,520881154
+Robert Zemeckis,Robert Zemeckis,Michael J. Fox,Adventure,116,MOV_030,30,Back to the Future,1985,8.5,PG,He's the only kid ever to get into trouble before he was born. [UK],19000000,383336762
+Hayao Miyazaki,Hayao Miyazaki,Daveigh Chase,Animation,125,MOV_031,31,Spirited Away,2001,8.6,PG,The tunnel led Chihiro to a mysterious town.,19000000,355822319
+Ronald Harwood,Roman Polanski,Adrien Brody,Biography,150,MOV_032,32,The Pianist,2002,8.5,R,Music was his passion. Survival was his masterpiece.,35000000,120072577
+Joseph Stefano,Alfred Hitchcock,Anthony Perkins,Horror,109,MOV_033,33,Psycho,1960,8.5,R,The picture you MUST see from the beginning... Or not at all!... For no one will be seated after the start of... Alfred Hitchcock's greatest shocker Psycho.,806947,32052925
+Bong Joon Ho,Bong Joon Ho,Song Kang-ho,Drama,132,MOV_034,34,Parasite,2019,8.5,R,Misplaced familyhood (Australia/New Zealand/Singapore),11400000,262676096
+Luc Besson,Luc Besson,Jean Reno,Action,110,MOV_035,35,Léon: The Professional,1994,8.5,R,"If you want the job done right, hire a professional.",,19569225
+Irene Mecchi,Roger Allers,Matthew Broderick,Animation,88,MOV_036,36,The Lion King,1994,8.5,G,See it for the first time ever in 3D (2011 3D re-release),45000000,968511805
+David Franzoni,Ridley Scott,Russell Crowe,Action,155,MOV_037,37,Gladiator,2000,8.5,R,"Father of a murdered son, husband to a murdered wife and I shall have my vengeance in this life or the next",103000000,503162313
+David McKenna,Tony Kaye,Edward Norton,Crime,119,MOV_038,38,American History X,1998,8.5,R,His father taught him to hate. His friends taught him rage. His enemies gave him hope.,20000000,23875127
+William Monahan,Martin Scorsese,Leonardo DiCaprio,Crime,151,MOV_039,39,The Departed,2006,8.5,R,Lies. Betrayal. Sacrifice. How far will you take it?,90000000,291480452
+Christopher McQuarrie,Bryan Singer,Kevin Spacey,Crime,106,MOV_040,40,The Usual Suspects,1995,8.5,R,The greatest trick the devil ever pulled was to convince the world he didn't exist,6000000,23341568
+Jonathan Nolan,Christopher Nolan,Christian Bale,Drama,130,MOV_041,41,The Prestige,2006,8.5,PG-13,A Friendship That Became a Rivalry.,40000000,109676311
+Damien Chazelle,Damien Chazelle,Miles Teller,Drama,106,MOV_042,42,Whiplash,2014,8.5,R,The road to greatness can take you to the edge,3300000,49396747
+Julius J. Epstein,Michael Curtiz,Humphrey Bogart,Drama,102,MOV_043,43,Casablanca,1942,8.5,PG,Where Love Cuts as Deep as a Dagger!,950000,4626532
+Akiyuki Nosaka,Isao Takahata,Tsutomu Tatsumi,Animation,89,MOV_044,44,Grave of the Fireflies,1988,8.5,Not Rated,imationDramaWar,3700000,516962
+Yasuhiko Takiguchi,Masaki Kobayashi,Tatsuya Nakadai,Action,133,MOV_045,45,Harakiri,1962,8.6,Not Rated,The World Has Never Understood Why the Japanese Prefer Death to Dishonor! This Samurai Picture Provides The Answer!!,,
+Olivier Nakache,Olivier Nakache,François Cluzet,Biography,112,MOV_046,46,The Intouchables,2011,8.5,R,Sometimes you have to reach into someone else's world to find out what's missing in your own.,9500000,426588510
+Charles Chaplin,Charles Chaplin,Charles Chaplin,Comedy,87,MOV_047,47,Modern Times,1936,8.5,G,"He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!",1500000,463618
+Sergio Donati,Sergio Leone,Henry Fonda,Western,165,MOV_048,48,Once Upon a Time in the West,1968,8.5,PG-13,There were three men in her life. One knew her past. One wanted her land. One wanted revenge.,5000000,5435024
+John Michael Hayes,Alfred Hitchcock,James Stewart,Mystery,112,MOV_049,49,Rear Window,1954,8.5,PG,The Essential Hitchcock,1000000,37034579
+Giuseppe Tornatore,Giuseppe Tornatore,Philippe Noiret,Drama,155,MOV_050,50,Cinema Paradiso,1988,8.5,PG,"A celebration of youth, friendship, and the everlasting magic of the movies.",5000000,13019063
+Dan O'Bannon,Ridley Scott,Sigourney Weaver,Horror,117,MOV_051,51,Alien,1979,8.5,R,In space no one can hear you scream.,11000000,106285522
+Charles Chaplin,Charles Chaplin,Charles Chaplin,Comedy,87,MOV_052,52,City Lights,1931,8.5,G,"HE RETURNS -And the world rocks again with laughter. (Print Ad-Daily Examiner, ((Grafton, NSW)) 6 July 1931)",1500000,50419
+John Milius,Francis Ford Coppola,Martin Sheen,Drama,147,MOV_053,53,Apocalypse Now,1979,8.5,R,The Horror. . . The Horror. . .,31500000,104880868
+Christopher Nolan,Christopher Nolan,Guy Pearce,Mystery,113,MOV_054,54,Memento,2000,8.4,R,Some memories are best forgotten,9000000,40047078
+Quentin Tarantino,Quentin Tarantino,Jamie Foxx,Drama,165,MOV_055,55,Django Unchained,2012,8.4,R,"Life, liberty and the pursuit of vengeance.",100000000,426074373
+Lawrence Kasdan,Steven Spielberg,Harrison Ford,Action,115,MOV_056,56,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,PG,Indiana Jones - the new hero from the creators of JAWS and STAR WARS.,18000000,389925971
+Andrew Stanton,Andrew Stanton,Ben Burtt,Animation,98,MOV_057,57,WALL·E,2008,8.4,G,After 700 years of doing what he was built for - he'll discover what he's meant for.,180000000,521311890
+Florian Henckel von Donnersmarck,Florian Henckel von Donnersmarck,Ulrich Mühe,Drama,137,MOV_058,58,The Lives of Others,2006,8.4,R,"Before the Fall of the Berlin Wall, East Germany's Secret Police Listened to Your Secrets",2000000,77356942
+Charles Brackett,Billy Wilder,William Holden,Drama,110,MOV_059,59,Sunset Blvd.,1950,8.4,Passed,A Hollywood Story,1752000,300073
+Stanley Kubrick,Stanley Kubrick,Kirk Douglas,Drama,88,MOV_060,60,Paths of Glory,1957,8.4,Approved,Never has the screen thrust so deeply into the guts of war!,935000,5252
+Stephen King,Stanley Kubrick,Jack Nicholson,Drama,146,MOV_061,61,The Shining,1980,8.4,R,Iconic terror from the No 1 bestselling writer.,19000000,47335804
+Charles Chaplin,Charles Chaplin,Charles Chaplin,Comedy,125,MOV_062,62,The Great Dictator,1940,8.4,G,The Comedy Masterpiece!,2000000,970263
+Christopher Markus,Anthony Russo,Robert Downey Jr.,Action,149,MOV_063,63,Avengers: Infinity War,2018,8.4,PG-13,An entire universe. Once and for all.,321000000,2052415039
+Agatha Christie,Billy Wilder,Tyrone Power,Crime,116,MOV_064,64,Witness for the Prosecution,1957,8.4,Approved,The most electrifying entertainment of our time!,3000000,7693
+James Cameron,James Cameron,Sigourney Weaver,Action,137,MOV_065,65,Aliens,1986,8.4,R,This time there's more.,18500000,131060248
+Phil Lord,Bob Persichetti,Shameik Moore,Animation,117,MOV_066,66,Spider-Man: Into the Spider-Verse,2018,8.4,PG,Enter a universe where more than one wears the mask.,,
+Alan Ball,Sam Mendes,Kevin Spacey,Drama,122,MOV_067,67,American Beauty,1999,8.4,R,... look closer,15000000,356296601
+Stanley Kubrick,Stanley Kubrick,Peter Sellers,Comedy,95,MOV_068,68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,PG,The comedy classic from celebrated director STANLEY KUBRICK,1800000,9523464
+Jonathan Nolan,Christopher Nolan,Christian Bale,Action,164,MOV_069,69,The Dark Knight Rises,2012,8.4,PG-13,The Legend Ends,250000000,1081169825
+Garon Tsuchiya,Park Chan-wook,Choi Min-sik,Action,,MOV_070,70,Oldboy,2003,8.4,R,"15 years of imprisonment, five days of vengeance",3000000,15421226
+Quentin Tarantino,Quentin Tarantino,Brad Pitt,Adventure,153,MOV_071,71,Inglourious Basterds,2009,8.3,R,Once upon a time in Nazi occupied France...,70000000,321457747
+Peter Shaffer,Milos Forman,F. Murray Abraham,Biography,160,MOV_072,72,Amadeus,1984,8.4,PG,The man... The music... The madness... The murder... The motion picture...,18000000,52066791
+Lee Unkrich,Lee Unkrich,Anthony Gonzalez,Animation,105,MOV_073,73,Coco,2017,8.4,PG,The celebration of a lifetime,175000000,814337054
+John Lasseter,John Lasseter,Tom Hanks,Animation,81,MOV_074,74,Toy Story,1995,8.3,G,"""Oooh...3-D"" (USA 2009 re-release)",30000000,394436586
+Todd Phillips,Todd Phillips,Joaquin Phoenix,Crime,122,MOV_075,75,Joker,2019,8.4,R,Put on a happy face.,55000000,1074458282
+Randall Wallace,Mel Gibson,Mel Gibson,Biography,178,MOV_076,76,Braveheart,1995,8.4,R,The story of a man with a free soul...and with the courage to follow it.,72000000,213216216
+Wolfgang Petersen,Wolfgang Petersen,Jürgen Prochnow,Drama,0,MOV_077,77,The Boat,1981,8.4,Not Available,"This is the story of 42 raw recruits caught up in a war they didn't understand, and the Captain who must lead them in their struggle to survive.",,11487676
+Christopher Markus,Anthony Russo,Robert Downey Jr.,Action,181,MOV_078,78,Avengers: Endgame,2019,8.4,PG-13,Avenge the fallen.,356000000,2799439100
+Hayao Miyazaki,Hayao Miyazaki,Yôji Matsuda,Animation,134,MOV_079,79,Princess Mononoke,1997,8.4,PG-13,Live on.,2400000000,170005875
+Harry Grey,Sergio Leone,Robert De Niro,Crime,229,MOV_080,80,Once Upon a Time in America,1984,8.3,R,"Crime, passion and lust for power - Sergio Leone's explosive saga of gangland America.",30000000,5473337
+Matt Damon,Gus Van Sant,Robin Williams,Drama,126,MOV_081,81,Good Will Hunting,1997,8.3,R,"Some people can never believe in themselves, until someone believes in them.",,
+Makoto Shinkai,Makoto Shinkai,Ryûnosuke Kamiki,Animation,106,MOV_082,82,Your Name.,2016,8.4,TV-PG,"Experience Japan's #1 film of 2016, from visionary director Makoto Shinkai",,
+Rajkumar Hirani,Rajkumar Hirani,Aamir Khan,Comedy,170,MOV_083,83,3 Idiots,2009,8.4,PG-13,Don't be Stupid. Be an I.D.I.O.T.,550000000,60262836
+Betty Comden,Stanley Donen,Gene Kelly,Comedy,103,MOV_084,84,Singin' in the Rain,1952,8.3,G,Singin' Swingin' Glorious Feelin' Technicolor Musical,2540800,2000288
+Hubert Selby Jr.,Darren Aronofsky,Ellen Burstyn,Drama,102,MOV_085,85,Requiem for a Dream,2000,8.3,Unrated,From the director of [Pi],4500000,7390108
+John Lasseter,Lee Unkrich,Tom Hanks,Animation,103,MOV_086,86,Toy Story 3,2010,8.3,G,The Breakout Comedy Of The Summer,200000000,1067316101
+Hideo Oguni,Akira Kurosawa,Toshirô Mifune,Crime,143,MOV_087,87,High and Low,1963,8.4,Not Rated,142 Screenful Minutes of Thrills and Suspense!,,
+Nadine Labaki,Nadine Labaki,Zain Al Rafeea,Drama,126,MOV_088,88,Capernaum,2018,8.4,R,"""Why are you suing your parents?"" ""For giving me life.""",,
+Lawrence Kasdan,Richard Marquand,Mark Hamill,Action,131,MOV_089,89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,PG,"Coming May 25, 1983 to your galaxy. [Second Advance poster]",32500000,475106177
+Charlie Kaufman,Michel Gondry,Jim Carrey,Drama,108,MOV_090,90,Eternal Sunshine of the Spotless Mind,2004,8.3,R,I already forget how I used to feel about you.,20000000,74036715
+Stanley Kubrick,Stanley Kubrick,Keir Dullea,Adventure,149,MOV_091,91,2001: A Space Odyssey,1968,8.3,G,Let the Awe and Mystery of a Journey Unlike Any Other Begin,12000000,65889846
+Quentin Tarantino,Quentin Tarantino,Harvey Keitel,Crime,99,MOV_092,92,Reservoir Dogs,1992,8.3,R,Seven Total Strangers Team Up For The Perfect Crime. They Don't Know Each Other's Name. But They've Got Each Other's Color,1200000,2913644
+Ales Adamovich,Elem Klimov,Aleksey Kravchenko,Drama,142,MOV_093,93,Come and See,1985,8.4,Not Rated,The cruelest side of war.,,
+Thomas Vinterberg,Thomas Vinterberg,Mads Mikkelsen,Drama,115,MOV_094,94,The Hunt,2012,8.3,R,The lie is spreading.,,
+Herman J. Mankiewicz,Orson Welles,Orson Welles,Drama,119,MOV_095,95,Citizen Kane,1941,8.3,PG,Radio's Most Dynamic Artist . . The Man At Whose Voice A Nation Trembled . . . Now the screen's most exciting NEW star ! ORSON WELLES in the picture Hollywood said he'd never make,839727,1645133
+Thea von Harbou,Fritz Lang,Peter Lorre,Crime,99,MOV_096,96,M,1931,8.3,Passed,IT STAGGERS THE SENSES!...SHOCKS the Imagination - It will leave you Gasping - It is the Sensation of 3 Continents!,,35566
+Robert Bolt,David Lean,Peter O'Toole,Adventure,218,MOV_097,97,Lawrence of Arabia,1962,8.3,Approved,A Mighty Motion Picture Of Action And Adventure!,15000000,45720631
+Ernest Lehman,Alfred Hitchcock,Cary Grant,Action,136,MOV_098,98,North by Northwest,1959,8.3,Approved,Alfred Hitchcock takes you.... North by Northwest!,3101000,142319
+Alec Coppel,Alfred Hitchcock,James Stewart,Mystery,128,MOV_099,99,Vertigo,1958,8.3,PG,A Hitchcock thriller. You should see it from the beginning!,2479000,7798146
+Akira Kurosawa,Akira Kurosawa,Takashi Shimura,Drama,143,MOV_100,100,Ikiru,1952,8.3,Not Rated,One of the Great Films of Our Time!,,96302
+Guillaume Laurant,Jean-Pierre Jeunet,Audrey Tautou,Comedy,122,MOV_101,101,Amélie,2001,8.3,R,One person can change your life forever.,10000000,174122191
+Billy Wilder,Billy Wilder,Jack Lemmon,Comedy,125,MOV_102,102,The Apartment,1960,8.3,Approved,"Movie-wise, there has never been anything like ""THE APARTMENT"" love-wise, laugh-wise or otherwise-wise!",3000000,18778738
+Stanley Kubrick,Stanley Kubrick,Malcolm McDowell,Crime,136,MOV_103,103,A Clockwork Orange,1971,8.3,X,"Being the adventures of a young man ... who couldn't resist pretty girls ... or a bit of the old ultra-violence ... went to jail, was re-conditioned ... and came out a different young man ... or was he ?",2200000,26960374
+Billy Wilder,Billy Wilder,Fred MacMurray,Crime,107,MOV_104,104,Double Indemnity,1944,8.3,Passed,"IT'S LOVE AND MURDER AT FIRST SIGHT! (print ad - Lubbock Morning Avalanche - Lindsey Theatre - Lubbock, Texas - September 1, 1944 - all caps)",927262,14651
+Stanley Kubrick,Stanley Kubrick,Matthew Modine,Drama,116,MOV_105,105,Full Metal Jacket,1987,8.3,R,An Epic Story of the Vietnam War [Australia Theatrical],30000000,46358827
+Jim Cash,Joseph Kosinski,Tom Cruise,Action,130,MOV_106,106,Top Gun: Maverick,2022,8.3,PG-13,Feel the need... The need for speed.,170000000,1488732821
+Oliver Stone,Brian De Palma,Al Pacino,Crime,170,MOV_107,107,Scarface,1983,8.3,R,He was Tony Montana. The world will remember him by another name...SCARFACE.,25000000,65884703
+Lin-Manuel Miranda,Thomas Kail,Lin-Manuel Miranda,Biography,160,MOV_108,108,Hamilton,2020,8.4,PG-13,An American Musical,,
+Denis Villeneuve,Denis Villeneuve,Lubna Azabal,Drama,131,MOV_109,109,Incendies,2010,8.3,R,The search began at the opening of their mother's will.,6800000,6788659
+Harper Lee,Robert Mulligan,Gregory Peck,Crime,129,MOV_110,110,To Kill a Mockingbird,1962,8.3,Approved,The most beloved and widely read Pulitzer Prize Winner now comes vividly alive on the screen!,2000000,599146
+Michael Mann,Michael Mann,Al Pacino,Action,170,MOV_111,111,Heat,1995,8.3,R,An L.A. Redemption,60000000,187436818
+David S. Ward,George Roy Hill,Paul Newman,Comedy,129,MOV_112,112,The Sting,1973,8.3,PG,"Recapture ""the STING Experience"". REMEMBER HOW GOOD THE FEEL WAS THE FIRST TIME (re-release)",5500000,156000000
+Pete Docter,Pete Docter,Edward Asner,Animation,96,MOV_113,113,Up,2009,8.3,PG,Fly Up to Venezuela,175000000,735099102
+Asghar Farhadi,Asghar Farhadi,Payman Maadi,Drama,123,MOV_114,114,A Separation,2011,8.3,PG-13,"Ugly truth, sweet lies",500000,22926076
+Thea von Harbou,Fritz Lang,Brigitte Helm,Drama,153,MOV_115,115,Metropolis,1927,8.3,Not Rated,Fritz Lang's 1927 Masterpiece Now With 25 Minutes of Lost Footage (2010 re-release),,1349711
+Paul Schrader,Martin Scorsese,Robert De Niro,Crime,114,MOV_116,116,Taxi Driver,1976,8.2,R,"On every street in every city in this country, there's a nobody who dreams of being a somebody.",1300000,28570902
+James Ellroy,Curtis Hanson,Kevin Spacey,Crime,138,MOV_117,117,L.A. Confidential,1997,8.2,R,"Off the record, on the QT, and very hush-hush...",35000000,126216940
+Roderick Thorp,John McTiernan,Bruce Willis,Action,132,MOV_118,118,Die Hard,1988,8.2,R,It will blow you through the back wall of the theater!,28000000,141603197
+Guy Ritchie,Guy Ritchie,Jason Statham,Comedy,102,MOV_119,119,Snatch,2000,8.2,R,Stealin' Stones and Breakin' Bones,6000000,83557872
+Jeffrey Boam,Steven Spielberg,Harrison Ford,Action,127,MOV_120,120,Indiana Jones and the Last Crusade,1989,8.2,PG-13,He's back in an all new adventure. Memorial Day 1989.,48000000,474171806
+Cesare Zavattini,Vittorio De Sica,Lamberto Maggiorani,Drama,89,MOV_121,121,Bicycle Thieves,1948,8.3,Not Rated,The Prize Picture They Want to Censor!,133000,436655
+Amole Gupte,Aamir Khan,Darsheel Safary,Drama,165,MOV_122,122,Like Stars on Earth,2007,8.3,PG,Every Child is Special,,21897373
+Sam Mendes,Sam Mendes,Dean-Charles Chapman,Action,119,MOV_123,123,1917,2019,8.2,R,Time is the enemy.,95000000,384479940
+Bernd Eichinger,Oliver Hirschbiegel,Bruno Ganz,Biography,156,MOV_124,124,Downfall,2004,8.2,R,"April 1945, a nation awaits its...",13500000,92181574
+Piyush Gupta,Nitesh Tiwari,Aamir Khan,Action,161,MOV_125,125,Dangal,2016,8.3,Not Rated,You think our girls are any lesser than boys?,,
+Sergio Leone,Sergio Leone,Clint Eastwood,Western,132,MOV_126,126,For a Few Dollars More,1965,8.2,R,The man with no name is back.,600000,15000000
+Bob Kane,Christopher Nolan,Christian Bale,Action,140,MOV_127,127,Batman Begins,2005,8.2,PG-13,The Legend Begins,150000000,373672993
+Charles Chaplin,Charles Chaplin,Charles Chaplin,Comedy,68,MOV_128,128,The Kid,1921,8.3,Passed,This is the great film he has been working on for a whole year,250000,41960
+Billy Wilder,Billy Wilder,Marilyn Monroe,Comedy,121,MOV_129,129,Some Like It Hot,1959,8.2,Passed,"Not since SCARFACE, so much action. Not since the Marx Brothers, so much comedy. Not since THE SEVEN YEAR ITCH, so much Marilyn.",2883848,195088
+Christopher Hampton,Florian Zeller,Anthony Hopkins,Drama,97,MOV_130,130,The Father,2020,8.2,PG-13,Nothing is as it seems,6000000,24427162
+Joseph L. Mankiewicz,Joseph L. Mankiewicz,Bette Davis,Drama,138,MOV_131,131,All About Eve,1950,8.2,Passed,It's all about women---and their men!,1400000,151052
+Terence Winter,Martin Scorsese,Leonardo DiCaprio,Biography,,MOV_132,132,The Wolf of Wall Street,2013,8.2,R,Earn. Spend. Party.,100000000,406878233
+Nick Vallelonga,Peter Farrelly,Viggo Mortensen,Biography,130,MOV_133,133,Green Book,2018,8.2,PG-13,Inspired by a True Friendship,23000000,321752656
+Abby Mann,Stanley Kramer,Spencer Tracy,Drama,179,MOV_134,134,Judgment at Nuremberg,1961,8.3,Approved,More than a motion picture...It is an overwhelming experience in human emotion you will never forget!,3000000,12180
+Nicholas Pileggi,Martin Scorsese,Robert De Niro,Crime,178,MOV_135,135,Casino,1995,8.2,R,You don't stay at the top forever,52000000,116112375
+Akira Kurosawa,Akira Kurosawa,Tatsuya Nakadai,Action,162,MOV_136,136,Ran,1985,8.2,R,tionDramaWar,11500000,4164283
+Guillermo del Toro,Guillermo del Toro,Ivana Baquero,Drama,118,MOV_137,137,Pan's Labyrinth,2006,8.2,R,What happens when make-believe believes it's real?,19000000,83862032
+Andrew Niccol,Peter Weir,Jim Carrey,Comedy,103,MOV_138,138,The Truman Show,1998,8.2,PG,All the world's a stage...,60000000,264118201
+Paul Thomas Anderson,Paul Thomas Anderson,Daniel Day-Lewis,Drama,158,MOV_139,139,There Will Be Blood,2007,8.2,R,There Will Be Greed. There Will Be Vengeance.,25000000,76182388
+David Webb Peoples,Clint Eastwood,Clint Eastwood,Drama,130,MOV_140,140,Unforgiven,1992,8.2,R,"It's a hell of a thing, killing a man",14400000,159167799
+M. Night Shyamalan,M. Night Shyamalan,Bruce Willis,Drama,107,MOV_141,141,The Sixth Sense,1999,8.2,PG-13,"""I see dead people""",40000000,672806432
+Laeta Kalogridis,Martin Scorsese,Leonardo DiCaprio,Mystery,138,MOV_142,142,Shutter Island,2010,8.2,R,Someone is missing.,80000000,294805697
+Akiva Goldsman,Ron Howard,Russell Crowe,Biography,135,MOV_143,143,A Beautiful Mind,2001,8.2,PG-13,The Only Thing Greater Than the Power of the Mind is the Courage of the Heart,58000000,316791257
+Michael Crichton,Steven Spielberg,Sam Neill,Action,127,MOV_144,144,Jurassic Park,1993,8.2,PG-13,Life finds a way.,63000000,1109802321
+Akira Kurosawa,Akira Kurosawa,Toshirô Mifune,Action,110,MOV_145,145,Yojimbo,1961,8.2,Not Rated,Better if all these men were dead. Think about it!,,46808
+John Huston,John Huston,Humphrey Bogart,Adventure,126,MOV_146,146,The Treasure of the Sierra Madre,1948,8.2,Passed,Storming to a New High in High Adventure !,3000000,5014000
+Graham Chapman,Terry Gilliam,Graham Chapman,Adventure,91,MOV_147,147,Monty Python and the Holy Grail,1975,8.2,PG,You can do worse than see it.,229575,1940906
+Paul Brickhill,John Sturges,Steve McQueen,Adventure,172,MOV_148,148,The Great Escape,1963,8.2,Approved,put a fence in front of these men...and they'll climb it...,4000000,228178
+Joel Coen,Ethan Coen,Tommy Lee Jones,Crime,122,MOV_149,149,No Country for Old Men,2007,8.2,R,There Are No Clean Getaways,25000000,171627434
+Chris McKenna,Jon Watts,Tom Holland,Action,148,MOV_150,150,Spider-Man: No Way Home,2021,8.2,PG-13,The Multiverse Unleashed.,200000000,1921847111
+Quentin Tarantino,Quentin Tarantino,Uma Thurman,Action,111,MOV_151,151,Kill Bill: Vol. 1,2003,8.2,R,"In the year 2003, Uma Thurman will kill Bill",30000000,180906076
+Ryûnosuke Akutagawa,Akira Kurosawa,Toshirô Mifune,Crime,88,MOV_152,152,Rashomon,1950,8.2,Not Rated,"The husband, the wife...or the bandit?",250000,81379
+Bill Lancaster,John Carpenter,Kurt Russell,Horror,109,MOV_153,153,The Thing,1982,8.2,R,Anytime. Anywhere. Anyone.,15000000,19632715
+Andrew Stanton,Andrew Stanton,Albert Brooks,Animation,100,MOV_154,154,Finding Nemo,2003,8.2,G,71% of the Earth's surface is covered by water. That's a lot of space to find one fish.,94000000,941637960
+Christopher De Vore,David Lynch,Anthony Hopkins,Biography,124,MOV_155,155,The Elephant Man,1980,8.2,PG,An incredible but true story... probably this year's best film.,5000000,26023860
+Robert Towne,Roman Polanski,Jack Nicholson,Drama,130,MOV_156,156,Chinatown,1974,8.2,R,You get tough. You get tender. You get close to each other. Maybe you even get close to the truth.,6000000,29225935
+Jake LaMotta,Martin Scorsese,Robert De Niro,Biography,129,MOV_157,157,Raging Bull,1980,8.2,R,ographyDramaSport,18000000,23402427
+Lilly Wachowski,James McTeigue,Hugo Weaving,Action,132,MOV_158,158,V for Vendetta,2005,8.2,R,"Remember, remember the 5th of November, the gun powder treason and plot. I know of no reason why the gun powder treason should ever be forgot.",54000000,134686457
+Margaret Mitchell,Victor Fleming,Clark Gable,Drama,238,MOV_159,159,Gone with the Wind,1939,8.2,Passed,"For the thousands who remember its unparalleled drama, action and romance! For the new thousands to whom the wonders will be revealed for the first time! Breathtaking spectacle, inspired acting by the greatest cast ever assembled! The screen's most exciting love story! The most-talked about picture ever made! [reissue]",3977000,402382193
+Guy Ritchie,Guy Ritchie,Jason Flemyng,Action,107,MOV_160,160,"Lock, Stock and Two Smoking Barrels",1998,8.2,R,A Disgrace to Criminals Everywhere.,960000,3753929
+Pete Docter,Pete Docter,Amy Poehler,Animation,95,MOV_161,161,Inside Out,2015,8.2,PG,Meet the little voices inside your head.,175000000,858848019
+Frederick Knott,Alfred Hitchcock,Ray Milland,Crime,105,MOV_162,162,Dial M for Murder,1954,8.2,PG,Kiss By Kiss...Supreme Suspense Unfurls!,1400000,31207
+Eduardo Sacheri,Juan José Campanella,Ricardo Darín,Drama,129,MOV_163,163,The Secret in Their Eyes,2009,8.2,R,Un crimen sin castigo. Un amor puro. Una historia que no debe morir. [A crime without a punishment. A pure love. A story that must not die.],,
+Hayao Miyazaki,Hayao Miyazaki,Chieko Baisho,Animation,119,MOV_164,164,Howl's Moving Castle,2004,8.2,PG,imationAdventureFamilyFantasy,24000000,237536126
+Martin McDonagh,Martin McDonagh,Frances McDormand,Comedy,115,MOV_165,165,"Three Billboards Outside Ebbing, Missouri",2017,8.1,R,medyCrimeDrama,15000000,162861289
+Pierre Boulle,David Lean,William Holden,Adventure,161,MOV_166,166,The Bridge on the River Kwai,1957,8.2,PG,"The towering triumph of adventure from the makers of ""Lawrence of Arabia.""",3000000,27200000
+Irvine Welsh,Danny Boyle,Ewan McGregor,Drama,93,MOV_167,167,Trainspotting,1996,8.1,R,"Choose life. Choose a job. Choose a starter home. Choose dental insurance, leisure wear and matching luggage. Choose your future. But why would anyone want to do a thing like that?",1500000,16767475
+Aaron Guzikowski,Denis Villeneuve,Hugh Jackman,Crime,153,MOV_168,168,Prisoners,2013,8.1,R,Every moment matters,46000000,122126687
+Gavin O'Connor,Gavin O'Connor,Tom Hardy,Action,140,MOV_169,169,Warrior,2011,8.2,PG-13,Fight for Country,25000000,23308615
+Ethan Coen,Joel Coen,William H. Macy,Crime,98,MOV_170,170,Fargo,1996,8.1,R,A homespun murder story.,7000000,60611975
+Nick Schenk,Clint Eastwood,Clint Eastwood,Drama,116,MOV_171,171,Gran Torino,2008,8.1,R,ma,33000000,269958228
+Hayao Miyazaki,Hayao Miyazaki,Hitoshi Takagi,Animation,86,MOV_172,172,My Neighbor Totoro,1988,8.1,G,imationComedyFamilyFantasy,,
+Jeff Nathanson,Steven Spielberg,Leonardo DiCaprio,Biography,141,MOV_173,173,Catch Me If You Can,2002,8.1,PG-13,The true story of a real fake.,,
+Paul Haggis,Clint Eastwood,Hilary Swank,Drama,132,MOV_174,174,Million Dollar Baby,2004,8.1,PG-13,"Beyond his silence, there is a past. Beyond her dreams, there is a feeling. Beyond hope, there is a memory. Beyond their journey, there is a love.",30000000,216763646
+Majid Majidi,Majid Majidi,Mohammad Amir Naji,Drama,89,MOV_175,175,Children of Heaven,1997,8.2,PG,A Little Secret...Their Biggest Adventure!,,
+Hampton Fancher,Ridley Scott,Harrison Ford,Action,117,MOV_176,176,Blade Runner,1982,8.1,R,A Futuristic Vision Perfected [2007 Final Cut],28000000,41722424
+Charles Chaplin,Charles Chaplin,Charles Chaplin,Adventure,95,MOV_177,177,The Gold Rush,1925,8.1,Passed,"""The Picture I Want to Be Remembered by."" -Charlie Chaplin. (Print Ad- Calgary Daily Herald, ((Calgary, Alta.)) 30 December 1925)",923000,29328
+Richard Linklater,Richard Linklater,Ethan Hawke,Drama,101,MOV_178,178,Before Sunrise,1995,8.1,R,Jump on and live a Eurorail journey you will never forget!,2500000,5987386
+John Ridley,Steve McQueen,Chiwetel Ejiofor,Biography,134,MOV_179,179,12 Years a Slave,2013,8.1,R,The extraordinary true story of Solomon Northup,20000000,187733202
+Sergio Pablos,Sergio Pablos,Jason Schwartzman,Animation,96,MOV_180,180,Klaus,2019,8.2,PG,Discover the friendship that launched a legend.,,
+Steve Kloves,David Yates,Daniel Radcliffe,Adventure,130,MOV_181,181,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,PG-13,It All Ends Here,125000000,1342359942
+Budd Schulberg,Elia Kazan,Marlon Brando,Crime,108,MOV_182,182,On the Waterfront,1954,8.1,Approved,The Man Lived by the Jungle Law of the Docks!,910000,
+Lew Wallace,William Wyler,Charlton Heston,Adventure,212,MOV_183,183,Ben-Hur,1959,8.1,G,A Tale of the Christ,15000000,74437720
+Gillian Flynn,David Fincher,Ben Affleck,Drama,149,MOV_184,184,Gone Girl,2014,8.1,R,You don't know what you've got 'til it's...,,
+Stefan Zweig,Wes Anderson,Ralph Fiennes,Adventure,99,MOV_185,185,The Grand Budapest Hotel,2014,8.1,R,ventureComedyCrime,25000000,173082189
+Ingmar Bergman,Ingmar Bergman,Victor Sjöström,Drama,91,MOV_186,186,Wild Strawberries,1957,8.1,Not Rated,"""We are such stuff as dreams are made on, and our little life is rounded with a sleep."" Shakespeare - The Tempest",,60418
+Buster Keaton,Clyde Bruckman,Buster Keaton,Action,67,MOV_187,187,The General,1926,8.1,Passed,"Buster drives ""The General"" to trainload of laughter. (Trade paper ad).",750000,
+Graham Greene,Carol Reed,Orson Welles,Film-Noir,93,MOV_188,188,The Third Man,1949,8.1,Approved,Carol Reed's Classic Thriller,,1226507
+Gerry Conlon,Jim Sheridan,Daniel Day-Lewis,Biography,133,MOV_189,189,In the Name of the Father,1993,8.1,R,Falsely accused.  Wrongly imprisoned.  He fought for justice to clear his father's name.,,
+Michael Cimino,Michael Cimino,Robert De Niro,Drama,183,MOV_190,190,The Deer Hunter,1978,8.1,R,One of the most important and powerful films of all time!,15000000,49074379
+Stanley Kubrick,Stanley Kubrick,Ryan O'Neal,Adventure,185,MOV_191,191,Barry Lyndon,1975,8.1,PG,At long last Redmond Barry became a gentleman -- and that was his tragedy.,11000000,199632
+Robert Schenkkan,Mel Gibson,Andrew Garfield,Biography,139,MOV_192,192,Hacksaw Ridge,2016,8.1,R,Based on the incredible true story.,40000000,180563636
+Georges Arnaud,Henri-Georges Clouzot,Yves Montand,Adventure,131,MOV_193,193,The Wages of Fear,1953,8.2,Not Rated,The complete restored version of the 1953 French classic [reissue],,1098
+Bong Joon Ho,Bong Joon Ho,Song Kang-ho,Crime,132,MOV_194,194,Memories of Murder,2003,8.1,Not Rated,"1986 in a small town...for two detectives, everything was new.",2800000,1166717
+Jean C. Havez,Buster Keaton,Buster Keaton,Action,45,MOV_195,195,Sherlock Jr.,1924,8.2,Passed,every inch of footage holds such a laugh!,,
+Germán Servidio,Damián Szifron,Darío Grandinetti,Comedy,122,MOV_196,196,Wild Tales,2014,8.1,R,We can all lose control,,
+Sidney Buchman,Frank Capra,James Stewart,Comedy,129,MOV_197,197,Mr. Smith Goes to Washington,1939,8.1,Passed,"OUR OPERATOR SAYS..""IT'S GOING TO BE A PLEASURE TO RUN ""MR. SMITH GOES TO WASHINGTON"" 5 DAYS STARTING SUNDAY, NOV.7) (print ad - Lubbock Morning Avalanche - Cactus Theatre - Lubbock Texas - November 2, 1938 - all caps)",1900000,144738
+George Miller,George Miller,Tom Hardy,Action,,MOV_198,198,Mad Max: Fury Road,2015,8.1,R,WHAT A LOVELY DAY (all caps One Sheet),150000000,415261382
+Ingmar Bergman,Ingmar Bergman,Max von Sydow,Drama,96,MOV_199,199,The Seventh Seal,1957,8.1,Not Rated,"A film of visual scope, of imaginative concept, of powerful content, written and directed by Ingmar Bergman, twice honored by the Interational Jury at the Cannes Film Festival 1956,1957",150000,311212
+Adam Elliot,Adam Elliot,Toni Collette,Animation,92,MOV_200,200,Mary and Max,2009,8.1,Not Rated,Two unlikely people. Two different worlds come together in a story about a most unusual friendship.,8240000,1740429
+Will Davies,Dean DeBlois,Jay Baruchel,Animation,98,MOV_201,201,How to Train Your Dragon,2010,8.1,PG,One adventure will change two worlds,165000000,494879471
+Emma Donoghue,Lenny Abrahamson,Brie Larson,Drama,118,MOV_202,202,Room,2015,8.1,R,Love knows no boundaries,13000000,35401758
+Pete Docter,Pete Docter,Billy Crystal,Animation,92,MOV_203,203,"Monsters, Inc.",2001,8.1,G,"Monsters, Inc. : We Scare Because We Care",115000000,579707738
+Peter Benchley,Steven Spielberg,Roy Scheider,Adventure,124,MOV_204,204,Jaws,1975,8.1,PG,Amity Island had everything. Clear skies. Gentle surf. Warm water. People flocked there every summer. It was the perfect feeding ground.,7000000,476512065
+Tom Schulman,Peter Weir,Robin Williams,Comedy,128,MOV_205,205,Dead Poets Society,1989,8.1,PG,He was their inspiration. He made their lives extraordinary.,16400000,235860116
+Ethan Coen,Joel Coen,Jeff Bridges,Comedy,117,MOV_206,206,The Big Lebowski,1998,8.1,R,Hay quienes tratan de ganarse la vida sin mover un dedo... otros tienen que cortarlos. (Mexico),15000000,46969409
+Kôgo Noda,Yasujirô Ozu,Chishû Ryû,Drama,136,MOV_207,207,Tokyo Story,1953,8.2,Not Rated,"As long as life goes on, relationships between parents and children will bring boundless joy and endless grief.",,
+Joseph Delteil,Carl Theodor Dreyer,Maria Falconetti,Biography,114,MOV_208,208,The Passion of Joan of Arc,1928,8.2,Passed,JOAN of ARC PICTURES Inc. presents,,
+Keir Pearson,Terry George,Don Cheadle,Biography,121,MOV_209,209,Hotel Rwanda,2004,8.1,PG-13,"When a country descended into madness and the world turned its back, one man had to make a choice",17500000,33882243
+Jez Butterworth,James Mangold,Matt Damon,Action,152,MOV_210,210,Ford v Ferrari,2019,8.1,PG-13,They took the American dream for a ride.,97600000,225508210
+Sylvester Stallone,John G. Avildsen,Sylvester Stallone,Drama,,MOV_211,211,Rocky,1976,8.1,PG,You have a ringside seat for the bloodiest bicentennial in history!,960000,117250402
+Oliver Stone,Oliver Stone,Charlie Sheen,Drama,,MOV_212,212,Platoon,1986,8.1,R,The first casualty of war is innocence.,6000000,138545632
+Brad Bird,Brad Bird,Brad Garrett,Animation,111,MOV_213,213,Ratatouille,2007,8.1,G,Dinner is served... Summer 2007,150000000,623726085
+Josh Singer,Tom McCarthy,Mark Ruffalo,Biography,129,MOV_214,214,Spotlight,2015,8.1,R,Break the story. Break the silence.,20000000,98690254
+James Cameron,James Cameron,Arnold Schwarzenegger,Action,107,MOV_215,215,The Terminator,1984,8.1,R,"La sua missione e una sola: distruggere, uccidere... (His one and only mission: to destroy, to kill...) (Italian DVD)",6400000,78371200
+James Mangold,James Mangold,Hugh Jackman,Action,137,MOV_216,216,Logan,2017,8.1,R,His time has come,97000000,619179950
+Stephen King,Rob Reiner,Wil Wheaton,Adventure,89,MOV_217,217,Stand by Me,1986,8.1,13+,"For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.",8000000,52287414
+Peter Morgan,Ron Howard,Daniel Brühl,Action,123,MOV_218,218,Rush,2013,8.1,R,Everyone's driven by something.,38000000,96983009
+Paddy Chayefsky,Sidney Lumet,Faye Dunaway,Drama,121,MOV_219,219,Network,1976,8.1,R,"""NETWORK""... the humanoids, the love story, the trials and tribulations, the savior of television, the attempted suicides, the assassination -- it's ALL coming along with a galaxy of stars you know and love!",3800000,23690757
+Sean Penn,Sean Penn,Emile Hirsch,Adventure,148,MOV_220,220,Into the Wild,2007,8.1,R,Into the heart Into the soul,15000000,56675895
+Richard Linklater,Richard Linklater,Ethan Hawke,Drama,80,MOV_221,221,Before Sunset,2004,8.1,R,What if you had a second chance with the one that got away?,,
+Noel Langley,Victor Fleming,Judy Garland,Adventure,102,MOV_222,222,The Wizard of Oz,1939,8.1,G,Mighty Miracle Show Of 1000 Delights !,2777000,25637669
+Bibhutibhushan Bandyopadhyay,Satyajit Ray,Kanu Bannerjee,Drama,125,MOV_223,223,Pather Panchali,1955,8.3,Not Rated,The Saga of an Indian Family,,135342
+Danny Rubin,Harold Ramis,Bill Murray,Comedy,101,MOV_224,224,Groundhog Day,1993,8.1,PG,What would you do if you were stuck in the same day... over and over? Anything you want and everything your heart desires.,14600000,71108591
+Robert E. Sherwood,William Wyler,Myrna Loy,Drama,170,MOV_225,225,The Best Years of Our Lives,1946,8.1,Approved,THE SCREEN'S GREATEST LOVE STORY IS THE BEST FILM THIS YEAR FROM HOLLYWOOD!,2100000,23661347
+William Peter Blatty,William Friedkin,Ellen Burstyn,Horror,122,MOV_226,226,The Exorcist,1973,8.1,R,The movie you've been waiting for...without the wait.,11000000,441306145
+Brad Bird,Brad Bird,Craig T. Nelson,Animation,115,MOV_227,227,The Incredibles,2004,8,PG,Save The Day,92000000,631607053
+Melchior Lengyel,Ernst Lubitsch,Carole Lombard,Comedy,99,MOV_228,228,To Be or Not to Be,1942,8.2,Passed,The Picture Everyone Wants To See.,,
+Mathieu Kassovitz,Mathieu Kassovitz,Vincent Cassel,Crime,98,MOV_229,229,La haine,1995,8.1,Not Rated,"So far, so good",,
+Franco Solinas,Gillo Pontecorvo,Brahim Hadjadj,Drama,121,MOV_230,230,The Battle of Algiers,1966,8.1,Not Rated,The French Colonel...who was forced even to torture! One of the many women...who stopped at nothing to win! The Algerian Street Boy...who became a rebel hero!,800000,962002
+Ted Elliott,Gore Verbinski,Johnny Depp,Action,143,MOV_231,231,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,PG-13,Prepare to be blown out of the water.,140000000,654264015
+Stephen P. Lindsey,Lasse Hallström,Richard Gere,Biography,93,MOV_232,232,Hachi: A Dog's Tale,2009,8.1,G,"A true story of faith, devotion and undying love.",,
+Nunnally Johnson,John Ford,Henry Fonda,Drama,129,MOV_233,233,The Grapes of Wrath,1940,8.1,Passed,The thousands who have read the book will know why WE WILL NOT SELL ANY CHILDREN TICKETS to see this picture!,800000,
+T.J. Gnanavel,T.J. Gnanavel,Suriya,Crime,164,MOV_234,234,Jai Bhim,2021,8.8,TV-MA,imeDramaMystery,,
+Çagan Irmak,Çagan Irmak,Çetin Tekindor,Drama,112,MOV_235,235,My Father and My Son,2005,8.2,Not Rated,"Give him a room dad, he has no place to go...",,
+Guillermo Arriaga,Alejandro G. Iñárritu,Emilio Echevarría,Drama,154,MOV_236,236,Amores Perros,2000,8.1,R,Love. Betrayal. Death.,2000000,20908467
+Daphne Du Maurier,Alfred Hitchcock,Laurence Olivier,Drama,130,MOV_237,237,Rebecca,1940,8.1,Approved,"THE MIGHTY NOVEL LEAPS TO TURBULENT LIFE ON THE SCREEN! (Print Ad- Syracuse Herald-American, ((Syracuse, NY)) 24 March 1940)",1288000,72275
+Donn Pearce,Stuart Rosenberg,Paul Newman,Crime,127,MOV_238,238,Cool Hand Luke,1967,8.1,GP,"""What we've got here is failure to communicate.""",3200000,67
+Sarah Waters,Park Chan-wook,Kim Min-hee,Drama,145,MOV_239,239,The Handmaiden,2016,8.1,Not Rated,Never did they expect to get into a controversial relationship...,,
+François Truffaut,François Truffaut,Jean-Pierre Léaud,Crime,99,MOV_240,240,The 400 Blows,1959,8.1,Not Rated,From the Vanguard of New Film-Makers Comes an Extraordinary Motion Picture,,127244
+Georg Hurdalek,Robert Wise,Julie Andrews,Biography,172,MOV_241,241,The Sound of Music,1965,8.1,G,RADIANCE THAT FLOODS THE SCREEN...AND WARMS THE HEART!,8200000,159428329
+Robert Riskin,Frank Capra,Clark Gable,Comedy,105,MOV_242,242,It Happened One Night,1934,8.1,Passed,Two great lovers of the screen in the grandest of romantic comedies !,325000,11477
+Ingmar Bergman,Ingmar Bergman,Bibi Andersson,Drama,83,MOV_243,243,Persona,1966,8.1,Not Rated,A new film by Ingmar Bergman,,
+Graham Chapman,Terry Jones,Graham Chapman,Comedy,94,MOV_244,244,Life of Brian,1979,8,R,A motion picture destined to offend nearly two thirds of the civilized world. And severely annoy the other third.,4000000,20745728
+Tim McCanlies,Brad Bird,Eli Marienthal,Animation,86,MOV_245,245,The Iron Giant,1999,8.1,PG,Some secrets are too huge to hide,70000000,23335817
+Tate Taylor,Tate Taylor,Viola Davis,Drama,146,MOV_246,246,The Help,2011,8.1,PG-13,Change begins with a whisper.,25000000,216639112
+Akira Kurosawa,Akira Kurosawa,Maksim Munzuk,Adventure,142,MOV_247,247,Dersu Uzala,1975,8.2,G,There is man and beast at nature's mercy. There is awe and love and reverence. And there is the man called...,4000000,14480
+Ron Clements,Ron Clements,Scott Weinger,Animation,90,MOV_248,248,Aladdin,1992,8,G,Wish granted! (DVD re-release),,
+John Briley,Richard Attenborough,Ben Kingsley,Biography,191,MOV_249,249,Gandhi,1982,8,PG,His Triumph Changed The World Forever.,22000000,52767889
+Michael Blake,Kevin Costner,Kevin Costner,Adventure,181,MOV_250,250,Dances with Wolves,1990,8,PG-13,Inside everyone is a frontier waiting to be discovered.,22000000,424208848
