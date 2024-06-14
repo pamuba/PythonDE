@@ -33,6 +33,19 @@ CREATE TABLE [dbo].[audit_logs](
 ) ON [PRIMARY]
 GO
 
+DECLARE @updated int 
+UPDATE  a
+   SET 
+      a.[first_name] = b.first_name,
+      a.[last_name] = b.last_name,
+      a.[Email] = b.Email,
+      a.[Gender] = b.Gender
+ from Emails a inner join [Emails_Updated] as b
+ on a.Id = b.Id
+
+set @updated = @@ROWCOUNT
+insert into [audit_logs] 
+select 'Incremental.dtsx', 'Emails', 0, @updated, getdate()
 
 
 
